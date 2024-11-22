@@ -1,0 +1,3 @@
+locals {
+  appName = "eric-tech"
+}
